@@ -1,0 +1,24 @@
+[project]
+name = "04-redes-neuronales"
+version = "0.1.0"
+description = "Redes neuronales"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "jupyter>=1.0.0",
+    "notebook>=7.0.0",
+    "jupyterlab>=4.0.0",
+    "ipywidgets>=8.0.0",
+    "ipykernel>=6.0.0",
+    "spacy>=3.8.11",
+    "es-core-news-sm",
+    "tensorflow>=2.20.0",
+    "scikit-learn>=1.8.0",
+    "datasets>=2.19.0,<3.0.0",
+    "matplotlib>=3.10.8",
+    "gensim>=4.4.0",
+    "openpyxl>=3.1.5",
+]
+
+[tool.uv.sources]
+es-core-news-sm = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.8.0/es_core_news_sm-3.8.0-py3-none-any.whl" }

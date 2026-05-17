@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../applied-nlp-notebooks">
+      <excludeFolder url="file://$MODULE_DIR$/../applied-nlp-notebooks/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="C:\Users\hugo\Downloads\Tema4_CuadernosJupyterAlumnos\PLN_Examen2\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
